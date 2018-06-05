@@ -8,4 +8,7 @@ Sad face.
 But you have the option to reload the game and play again!
 Till the next time you lose.
 
+
+**To start the game, open the index.html with any browser**
+
 Have fun!
